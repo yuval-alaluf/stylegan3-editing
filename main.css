@@ -3726,6 +3726,17 @@ p {
     letter-spacing: 4px
 }
 
+.charm_subtitle {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Varela Round', sans-serif;
+    color: #4d4d4d;
+    font-size: 35px;
+    line-height: 65px;
+    font-weight: 700;
+    letter-spacing: 4px
+}
+
 .grey-heading_nerf {
     margin-top: 40px;
     margin-bottom: 23px;
@@ -4624,6 +4635,12 @@ p {
     .nerf_title_v2 {
         margin-bottom: 1px;
         font-size: 6vw
+    }
+
+    .charm_subtitle {
+        font-size: 3vw !important;
+        letter-spacing: 1vw !important;
+        line-height: 30px;
     }
 
     .grey-heading_nerf {
