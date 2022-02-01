@@ -3661,6 +3661,12 @@ p {
 .citation{
     border-radius: 5px;
     padding:8px;
+    overflow-x: scroll;
+}
+
+.citation code {
+    white-space: nowrap;
+    background-color: rgba(56, 56, 56, 0)
 }
 
 .white_section_nerf {
