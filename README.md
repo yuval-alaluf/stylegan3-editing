@@ -53,9 +53,6 @@ Official implementation of our StyleGAN3 paper "Third Time's the Charm?" where w
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 # Getting Started
 ## Prerequisites
