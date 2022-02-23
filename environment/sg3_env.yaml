@@ -41,5 +41,5 @@ dependencies:
     - ftfy==6.0.3
     - gdown==4.2.0
     - git+https://github.com/openai/CLIP.git
-    - pyrallis
+    - pyrallis==0.2.2
 prefix: ~/anaconda3/envs/sg3_env
