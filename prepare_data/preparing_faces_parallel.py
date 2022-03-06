@@ -39,7 +39,7 @@ def chunks(lst, n):
 
 def extract_on_paths(file_paths, args: Options):
 
-    predictor = dlib.shape_predictor(SHAPE_PREDICTOR_PATH)
+    predictor = dlib.shape_predictor(str(SHAPE_PREDICTOR_PATH))
     detector = dlib.get_frontal_face_detector()
     pid = mp.current_process().name
     print(f'\t{pid} is starting to extract on #{len(file_paths)} images')
