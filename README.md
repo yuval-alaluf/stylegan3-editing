@@ -53,6 +53,9 @@ Official implementation of our StyleGAN3 paper "Third Time's the Charm?" where w
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 
 # Getting Started
 ## Prerequisites
@@ -590,6 +593,14 @@ Notes:
 In our paper, we perform various experiments with [StyleGAN-NADA](https://github.com/rinongal/StyleGAN-nada) trained over StyleGAN3.  
 We invite the reader to head over to the [StyleGAN3-NADA branch](https://github.com/rinongal/StyleGAN-nada/tree/StyleGAN3-NADA) in 
 the official paper repository for running StyleGAN-NADA over StyleGAN3.
+
+We provide a set of trained models for FFHQ, FFHQ-U, and AFHQ-v2: 
+| Path | Description
+| :---- | :----------
+|[FFHQ](https://drive.google.com/drive/folders/1wCl_kVlAw7xuPXoeZbk7RHR1anvpMgOf?usp=sharing) | Folder a set of trained StyleGAN3-NADA models fine-tuned from the original FFHQ model. |
+|[FFHQ-U](https://drive.google.com/drive/folders/1NBOUo3g5IVD51SEKnswG4Xpf6-EI3YY_?usp=sharing) | Folder a set of trained StyleGAN3-NADA models fine-tuned from the original FFHQ-U model. |
+|[AFHQ](https://drive.google.com/drive/folders/1lVuHPXWFrjy7HWYNRESb6nkM4s412DW9?usp=sharing) | Folder a set of trained StyleGAN3-NADA models fine-tuned from the original AFHQ-v2 model. |
+
 
 # Acknowledgments
 This code borrows from various repositories, including:
