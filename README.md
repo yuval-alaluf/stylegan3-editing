@@ -96,7 +96,7 @@ python prepare_data/preparing_faces_parallel.py \
 Given the aligned and unaligned images, we can then compute the transformations between each pair of images.  
 To compute these landmarks, you can run the following command: 
 ```
-python prepare_dara/compute_landmarks_transforms.py \
+python prepare_data/compute_landmarks_transforms.py \
 --raw_root /path/to/root/data \
 --aligned_root /path/to/aligned/data \
 --cropped_root /path/to/unaligned/data \
