@@ -1,4 +1,4 @@
-# Third Time's the Charm? Image and Video Editing with StyleGAN3
+# Third Time's the Charm? Image and Video Editing with StyleGAN3 (AIM Workshop ECCV 2022)
 
 > Yuval Alaluf*, Or Patashnik*, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or  
 > *Denotes equal contribution  
